@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-sample-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-04T20:31:48.570799+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 6c0fc7941dc00d377ec9058797e27c081e30046a765e46706951fc0237bf20eb
+    name: my-sample-app
+    type: application
+    urls:
+    - https://BalagouniNaveen.github.io/my-helm-charts/my-sample-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-04T20:31:48.5686837+05:30"
